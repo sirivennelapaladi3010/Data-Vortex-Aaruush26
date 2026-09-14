@@ -1,8 +1,8 @@
-# Data Vortex Aaruush '26 – Social Engine Data Recovery & EDA
+# Data Vortex Aaruush '26 – Social Engine's Data Recovery, Cleaning & EDA 
 
-## Project Overview
+## Overview
 
-This project was completed as part of the Data Vortex Aaruush '26 challenge.
+This was completed as part of the Data Vortex Aaruush '26 challenge.
 
 The main task was to work with a deliberately corrupted Social Engine dataset and prepare it for further analysis. We first inspected the dataset to understand the different types of corruption and data quality issues. We then cleaned the data using methods that could be explained and justified from the available information.
 
